@@ -24,6 +24,25 @@ This dashboard provides insights into airline pricing strategies and helps users
 * Compare ticket prices across different travel classes
 
 ---
+---
+
+## 🌐 Live Interactive Dashboard (Tableau Public)
+
+You can explore the fully interactive version of this dashboard on Tableau Public:
+
+🔗 **View Live Dashboard:**  
+https://public.tableau.com/views/AirlinePriceIntelligenceDashboardTableauPortfolioProject/AirlinePriceIntelligenceDashboard
+
+This live version allows users to:
+
+- Apply filters dynamically
+- Hover over visuals to view custom tooltips
+- Explore story points
+- Interact with dashboard components in real time
+
+---
+
+
 
 ##  Dashboard Visualizations
 
